@@ -1,2 +1,2 @@
-# C--project
+# C# -project
 shape pop game
