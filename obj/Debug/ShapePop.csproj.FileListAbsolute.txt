@@ -1,0 +1,36 @@
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\bin\Debug\ShapePop.exe.config
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\bin\Debug\ShapePop.exe
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\bin\Debug\ShapePop.pdb
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop.csprojAssemblyReference.cache
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\MainWindow.g.cs
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\App.g.cs
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop_MarkupCompile.cache
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop_MarkupCompile.lref
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\MainWindow.baml
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop.g.resources
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop.Properties.Resources.resources
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop.csproj.GenerateResource.cache
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop.csproj.CoreCompileInputs.cache
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop.exe
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop.pdb
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\obj\Debug\ShapePop_Content.g.cs
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\bin\Debug\audio files\clickedpop.mp3
+C:\Users\Keerthi\source\repos\ShapePop\ShapePop\bin\Debug\audio files\pop.mp3
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\bin\Debug\audio files\clickedpop.mp3
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\bin\Debug\audio files\pop.mp3
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\bin\Debug\ShapePop.exe.config
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\bin\Debug\ShapePop.exe
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\bin\Debug\ShapePop.pdb
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop.csprojAssemblyReference.cache
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\MainWindow.g.cs
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\App.g.cs
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop_Content.g.cs
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop_MarkupCompile.cache
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop_MarkupCompile.lref
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\MainWindow.baml
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop.g.resources
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop.Properties.Resources.resources
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop.csproj.GenerateResource.cache
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop.csproj.CoreCompileInputs.cache
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop.exe
+C:\Users\rushm\Downloads\project03_ShapePop (1)\ShapePop\obj\Debug\ShapePop.pdb
